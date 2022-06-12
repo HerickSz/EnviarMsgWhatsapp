@@ -6,7 +6,7 @@ display(contatos_df)
 
 
 # In[20]: entrar no navegador, (google (chromium))
-
+#importar tempo de resposta para a api não pegar e as keys (enter - enviar)
 
 from selenium import webdriver
 from selenium.webdriver.common.keys import Keys
